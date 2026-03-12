@@ -1,1 +1,0 @@
-# gearsbot-turning-function
